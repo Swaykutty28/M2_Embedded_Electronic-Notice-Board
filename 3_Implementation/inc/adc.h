@@ -1,9 +1,9 @@
 /**
  * @file adc.h
- * @author Bharath G (Bharath.g@ltts.com)
+ * @author Swathi Thulasi (swathi.thulasi@ltts.com)
  * @brief Functions to handle ADC peripheral
  * @version 0.1
- * @date 2021-11-29
+ * @date 2021-12-1
  * 
  * @copyright Copyright (c) 2021
  * 
