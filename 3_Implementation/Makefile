@@ -1,4 +1,4 @@
-PROJ_NAME = Project
+PROJ_NAME = ElectronicNoticeBoard
 
 BUILD_DIR = Build
 
