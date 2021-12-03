@@ -5,3 +5,5 @@
 [![Codacy Badge](https://api.codiga.io/project/30315/status/svg)](https://app.codiga.io/public/project/30315/M2_Embedded_Electronic-Notice-Board/dashboard)
 
 [![Codacy Badge](https://api.codiga.io/project/30315/score/svg)](https://app.codiga.io/public/project/30315/M2_Embedded_Electronic-Notice-Board/dashboard)
+
+[![Code Quality - Static Code - Cppcheck](https://github.com/Swaykutty28/M2_Embedded_Electronic-Notice-Board/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Swaykutty28/M2_Embedded_Electronic-Notice-Board/actions/workflows/c-cpp.yml)
